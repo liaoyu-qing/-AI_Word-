@@ -1,0 +1,27 @@
+{
+    "log_level": 0,
+    "model_map": {
+        "deepseek_v3": {
+            "api_info": {
+                "model": "deepseek-chat",
+                "url": "https://api.deepseek.com",
+                "api_key": "sk-7f4290dd8344470abaa5600a6d883c16"
+            }
+        },
+        "deepseek_r1": {
+            "api_info": {
+                "model": "deepseek-reasoner",
+                "url": "https://api.deepseek.com",
+                "api_key": "sk-7f4290dd8344470abaa5600a6d883c16"
+            }
+        },
+        "qwen2.5": {
+            "api_info": {
+                "model": "qwen-plus",
+                "url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+                "api_key": "sk-04224bc22a8944359fac326effbbc544"
+            }
+        }
+    },
+    "version": 0
+}
