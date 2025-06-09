@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "聊与AI", "聊与AI\聊与AI.csproj", "{D250FC73-34C6-4660-A260-E0221B0185D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D250FC73-34C6-4660-A260-E0221B0185D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D250FC73-34C6-4660-A260-E0221B0185D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D250FC73-34C6-4660-A260-E0221B0185D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D250FC73-34C6-4660-A260-E0221B0185D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC51069-9467-4F0F-9D9D-517A454547DD}
+	EndGlobalSection
+EndGlobal
