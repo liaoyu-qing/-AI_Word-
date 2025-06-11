@@ -28,6 +28,9 @@ conda activate wai
 # 切换到服务端目录
 pip install -r requirements.txt
 python server.py
+
+# 配置大模型API_KEY
+打开config.json填入对应在各个大模型官网注册的API_KEY
 ```
 
 ## 聊与AI插件
@@ -37,14 +40,24 @@ python server.py
 ```
 # 开发软件:Microsoft Visual Studio
 # 进入 插件代码\聊与AI
-# 打开聊与AI.sln导入项目
-# 点击上方启动运行项目
+# 打开聊与AI.sln导出项目
+# 点击生成/发布聊与AI
+# 进入生成的文件夹启动安装程序setup.exe
 ```
 
 ### 使用教程
 
 ```
 进入word切换至聊与AI
-点击KEY输入AIP_KEY
+点击KEY输入AIP_KEY（管理页面生成）
+Url为本地部署后的服务器地址
+扩选文本选择要使用的功能
 ```
 
+### 联系我们
+
+邮箱：liaoyufurunqing@gmail.com
+
+地址：河南省郑州市郑东新区福禄路98号海赋国际1128
+
+![image-20250611143323704](C:\Users\QingJicheng\AppData\Roaming\Typora\typora-user-images\image-20250611143323704.png)
