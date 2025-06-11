@@ -13,6 +13,9 @@
             <setting name="MODEL_NAME" serializeAs="String">
                 <value />
             </setting>
+            <setting name="SERVER_ADRESS" serializeAs="String">
+                <value>https://wstools.liaoyuai.top:54847</value>
+            </setting>
         </聊与AI.Config>
     </userSettings>
 </configuration>
