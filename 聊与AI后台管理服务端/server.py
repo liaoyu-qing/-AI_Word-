@@ -19,12 +19,14 @@ def main_proc():
 def manager_proc():
     manager_app = FastAPI()
     manager_api_config = ApiConfig()
-    manager_api_config.host = '0.0.0.0'
+    manager_api_config.host = '127.0.0.1'
     manager_api_config.port = 3001
     manager_api = ManagerApi(manager_app, manager_api_config)
     manager_api.launch()
 
-mp = Process(target=manager_proc)
-mp.start()
+if __name__ == "__main__":
 
-main_proc()
+    mp = Process(target=manager_proc)
+    mp.start()
+
+    main_proc()

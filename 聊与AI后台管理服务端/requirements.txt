@@ -1,5 +1,5 @@
-uvicorn==0.34.3
-fastapi==0.115.12
-sse-starlette==2.3.6
-python-socketio==5.13.0
-openai==1.84.0
+uvicorn
+fastapi
+sse-starlette
+python-socketio
+openai
