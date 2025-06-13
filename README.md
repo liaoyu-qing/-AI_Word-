@@ -21,28 +21,37 @@ http://127.0.0.1:3001/
 进入后台管理页面（可以在server.py文件修改地址）
 ```
 
-## 聊与AI插件
+![](./聊与AI后台管理前端/src/assets/image/1.png)
+
+运行成功
+
+![](./聊与AI后台管理前端/src/assets/image/2.png)
+
+## 聊与AI插件安装包
 
 ### 安装教程
 
 ```
-# 开发软件:Microsoft Visual Studio
-# 进入 插件代码\聊与AI
-# 打开聊与AI.sln导入项目
-# 点击生成/发布聊与AI
 # 进入生成的文件夹启动安装程序setup.exe
+# 安装完成后打开word即可在上方导航栏看到聊与AI
 ```
+
+![](./聊与AI后台管理前端/src/assets/image/4.png)
 
 ### 使用教程
 
 ```
 进入word切换至聊与AI
-点击KEY输入AIP_KEY（管理页面生成）
+点击KEY输入AIP_KEY（后台管理页面生成）
 Url为本地部署后的服务器地址
 （默认为http://127.0.0.1:3000/）
 （可以在server.py文件修改地址）
 扩选文本选择要使用的功能
 ```
+
+修改地址
+
+![](./聊与AI后台管理前端/src/assets/image/3.png)
 
 ## 聊与AI后台管理前端
 
@@ -71,4 +80,5 @@ npm run build
 
 地址：河南省郑州市郑东新区福禄路98号海赋国际1128
 
-![image-20250611143323704](C:\Users\QingJicheng\AppData\Roaming\Typora\typora-user-images\image-20250611143323704.png)
+![](./聊与AI后台管理前端/src/assets/image/5.png)
+
