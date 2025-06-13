@@ -2,7 +2,7 @@
 
 
 
-## 聊与AI后台管理服务端
+## 聊与AI后台管理服务端（server）
 
 ### 安装教程
 
@@ -27,7 +27,7 @@ http://127.0.0.1:3001/
 
 ![](./聊与AI后台管理前端/src/assets/image/2.png)
 
-## 聊与AI插件安装包
+## 聊与AI插件安装包(Plugin installation package)
 
 ### 安装教程
 
@@ -53,7 +53,7 @@ Url为本地部署后的服务器地址
 
 ![](./聊与AI后台管理前端/src/assets/image/3.png)
 
-## 聊与AI后台管理前端
+## 聊与AI后台管理前端(manager_web)
 
 ### 安装教程
 
