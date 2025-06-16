@@ -37,7 +37,7 @@
 
 **安装完成后，需要重新启动Word才能生效！**
 
-### *使用教程*
+### 使用教程
 
 ```
 进入word切换至聊与AI
@@ -45,6 +45,7 @@
 Url为本地部署后的服务器地址
 （默认为http://127.0.0.1:3000/）
 （可以在server.py文件修改地址）
+（可联系我们使用官方服务器地址）
 扩选文本选择要使用的功能
 ```
 
@@ -54,7 +55,7 @@ Url为本地部署后的服务器地址
 
 ![](./manager_web/src/assets/image/4.png)
 
-输入KEY（后台管理页面生成）和URL（部署到本地服务器的地址）
+输入KEY（后台管理页面生成）和URL（部署到本地服务器的地址，如果使用官方服务器可不填）
 
 ![](./manager_web/src/assets/image/plugs_8.png)
 
@@ -76,7 +77,11 @@ Url为本地部署后的服务器地址
 
 ![](./manager_web/src/assets/image/3.png)
 
+### 购买KEY教程
 
+关注下方官方公众号
+
+<img src="./manager_web/src/assets/image/buy_1.jpg" style="zoom:33%;" />
 
 ## 聊与AI后台管理服务端（server）
 
