@@ -81,7 +81,7 @@ Url为本地部署后的服务器地址
 
 关注下方官方公众号
 
-<img src="./manager_web/src/assets/image/buy_1.jpg" style="zoom:33%;" />
+<img src="./manager_web/src/assets/image/buy_1.png" />
 
 ## 聊与AI后台管理服务端（server）
 
