@@ -55,7 +55,7 @@ Url为本地部署后的服务器地址
 
 ![](./manager_web/src/assets/image/4.png)
 
-输入KEY（后台管理页面生成）和URL（部署到本地服务器的地址，如果使用官方服务器可不填）
+输入KEY（后台管理页面生成/可参考下方教程）和URL（部署到本地服务器的地址，如果使用官方服务器可不填）
 
 ![](./manager_web/src/assets/image/plugs_8.png)
 
@@ -73,21 +73,21 @@ Url为本地部署后的服务器地址
 
 ![](./manager_web/src/assets/image/plugs_12.jpg)
 
-**修改地址**
 
-![](./manager_web/src/assets/image/3.png)
 
-### 购买KEY教程
 
-关注下方官方公众号
-
-<img src="./manager_web/src/assets/image/buy_1.png" />
 
 ## 聊与AI后台管理服务端（server）
 
 **如果以下需求，联系我们**
 
 **1.跳过server端本地部署流程，使用远程服务器或者购买KEY**
+
+### 购买KEY教程
+
+关注下方官方公众号
+
+<img src="./manager_web/src/assets/image/buy_1.png" />
 
 ### 安装教程
 
@@ -114,24 +114,17 @@ http://127.0.0.1:3001/
 
 ![](./manager_web/src/assets/image/server_2.png)
 
-## 聊与AI后台管理前端(manager_web)
+访问后台管理页面 http://127.0.0.1:3001  生成key
 
-### 安装教程
+<img src="./manager_web/src/assets/image/manage_2.png" style="zoom:70%;" />
 
-```
-# 技术栈：Vite+Vue3+elementui Plus
-# 需要提前准备node环境，最低版本 v14.20
-# 进入项目目录
-cd 聊与AI后台管理服务端
+将生成的KEY填入插件对应位置即可
 
-# 安装依赖
-npm install -registry=https://registry.npmmirror.com/
-# 启动项目
-npm run dev
+<img src="./manager_web/src/assets/image/manage_1.png" style="zoom:70%;" />
 
-# 构建生产环境
-npm run build
-```
+修改地址
+
+![](./manager_web/src/assets/image/3.png)
 
 
 
